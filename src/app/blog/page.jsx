@@ -1,8 +1,10 @@
-import React from 'react'
+import styles from './blog.module.css'
 
 function BlogPage() {
   return (
-    <div>BlogPage</div>
+    <div className={styles.container}>
+
+    </div>
   )
 }
 
